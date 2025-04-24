@@ -17,16 +17,16 @@ A simple yet functional Java-based desktop application designed to assist small 
 
 ## 🖼️ Screenshots
 
-### 🧾 Main Interface - Item and Buyer Entry
+### 🧾 Main Interface - Items Added to Cart
 ![Screenshot 1](1.png)
 
-### 🛍️ Items Added to Cart
+### 🛍️ Payment Dialog
 ![Screenshot 2](2.png)
 
-### 💳 Checkout & Payment Dialog
+### 💳 Checkout & Receipt Generated
 ![Screenshot 3](3.png)
 
-### 📄 Receipt Generated
+### 📄 Start new with new Customer
 ![Screenshot 4](4.png)
 
 ---
@@ -36,6 +36,26 @@ A simple yet functional Java-based desktop application designed to assist small 
 1. Make sure you have **Java 8+** installed on your machine.
 2. Clone the repository or download the `.java` file.
 3. Compile the Java file:
+
+
+   ```bash
+   javac SupermarketCashier.java
+   java SupermarketCashier
+
+
+
+## 🙌 Acknowledgements
+
+This project is built with simplicity and learning in mind. Whether you're a beginner exploring Java Swing or someone setting up a basic cashier system, feel free to modify and improve this project.
+
+---
+
+## 📜 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+---
+
 
    ```bash
    javac SupermarketCashier.java
