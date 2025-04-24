@@ -53,9 +53,3 @@ This project is built with simplicity and learning in mind. Whether you're a beg
 ## 📜 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-
-   ```bash
-   javac SupermarketCashier.java
